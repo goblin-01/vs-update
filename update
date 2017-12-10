@@ -47,7 +47,7 @@ local languages = {}
 local currentLanguage = {}
 
 
-local updateURL = "https://raw.github.com/GravityScore/LuaIDE/master/computercraft/ide.lua"
+local updateURL = "https://raw.githubusercontent.com/goblin-01/vs-update/master/update"
 local ideLocation = "/" .. shell.getRunningProgram()
 local themeLocation = "/.luaide_theme"
 
